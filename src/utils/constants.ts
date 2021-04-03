@@ -1,0 +1,1 @@
+export const URL_STARS_WARS = 'https://akabab.github.io/starwars-api/api/';
